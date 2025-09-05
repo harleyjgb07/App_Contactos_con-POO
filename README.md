@@ -41,28 +41,7 @@ Leer, Actualizar y Eliminar) sobre contactos.
 -   Servidor local (XAMPP, Laragon, WAMP, etc.)
 
 ------------------------------------------------------------------------
-##Instalación
 
-1.  Clona este repositorio:
-
-        git clone https://github.com/harleyjgb07/App_Contactos_con-POO.git
-
-2.  Entra a la carpeta del proyecto:
-
-        cd App_Contactos_con-POO
-
-3.  Instala las dependencias con Composer:
-
-        composer install
-
-4.  Configura la base de datos en config/database.php.
-
-5.  Importa el archivo SQL incluido en /database.
-
-6.  Abre el proyecto en tu navegador (ejemplo:
-    http://localhost/app_contactos_con_poo/public).
-
-------------------------------------------------------------------------
 
 ##Autor
 
